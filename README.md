@@ -23,5 +23,12 @@ This project compares a Convolutional Neural Network (CNN) with classical comput
 
 - Python
 - PyTorch
+
+## How to Run
+
+- Install required libraries (PyTorch, OpenCV, scikit-learn)
+- Run the notebooks:
+  - cnn_cifar10_exploration.ipynb
+  - classical_cv_bovw_cifar.ipynb
 - OpenCV
 - scikit-learn
